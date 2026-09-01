@@ -41,3 +41,4 @@ question you carried around for a week is a week you did not need to
 spend on it.
 
 - [ ] does raising `effort` change what a call costs?
+Not sure how to push what I write.
