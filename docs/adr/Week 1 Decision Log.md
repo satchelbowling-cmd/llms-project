@@ -1,4 +1,4 @@
-# Set up initial github account.
+# Set up initial github folder.
 **Status:** Not sure what to put here?
 **Date:** 2026-08-31
 
